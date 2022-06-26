@@ -1,2 +1,2 @@
-# locating-new-file
-uploading
+# zuri.js
+https://victorynifemi.github.io/zuri.js/
